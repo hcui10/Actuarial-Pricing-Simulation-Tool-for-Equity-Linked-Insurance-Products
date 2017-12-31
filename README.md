@@ -1,1 +1,11 @@
-## Actuarial Pricing Simulation Tool for Equity Linked Insurance Products
+## Equity Linked Insurance Simulation Tool
+
+Currently working on *Valuation* part. 
+
+### Valuation
+
+### Pricing
+
+### Reserving and Capital Requirements
+
+### Hedging
