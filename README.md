@@ -1,4 +1,4 @@
-## Equity Linked Insurance Simulation Tool
+## Equity-Linked-Insurance Simulation Tool
 
 Currently working on *Valuation* part. 
 
