@@ -1,4 +1,4 @@
-source("investment.R")
+source("01-Valuation/investment.R")
 
 ################################################################################
 ### TESTING
