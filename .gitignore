@@ -1,2 +1,5 @@
+.RData
 .Rhistory
 01-Valuation/application/rsconnect/
+.Rproj.user
+packrat/lib*/
